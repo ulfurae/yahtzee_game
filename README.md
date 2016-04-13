@@ -6,5 +6,5 @@ Created for the course Graphical User Interface Programming taught at the Univer
 The game was developed and compiled in Netbeans using Java Swing. 
 
 #### The user interface of the game:
-![yahtzee](https://raw.githubusercontent.com/ulfurae/yahtzee_game/skja1.png)
+![yahtzee](https://raw.githubusercontent.com/ulfurae/yahtzee_game/master/skja1.png)
 
